@@ -1,3 +1,4 @@
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpulyau&countColor=%23263759&style=default" alt="visitor_badge">
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulyau&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pulyau&show_icons=true&theme=merko" />
